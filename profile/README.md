@@ -27,7 +27,7 @@ For our current capabilities and product vision, visit [lynvera.ai](https://lynv
 
 For collaboration and business inquiries: [felipe.castillo@lynvera.ai](mailto:felipe.castillo@lynvera.ai).
 
-Founded and led by **[Dr. Felipe Castillo Rendón](https://github.com/fcastillorendon)**.
+Founded and led by **[Ph.D. Felipe Castillo Rendón](https://github.com/fcastillorendon)**.
 
 ---
 
